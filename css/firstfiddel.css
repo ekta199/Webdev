@@ -1,0 +1,39 @@
+ul li{
+	list-style-type: none;
+	text-align: center;
+	word-spacing: 5px;
+	letter-spacing: 4px;
+
+}
+ a input:hover{
+	background-color: black;
+	color: white;
+}
+ul li a{
+	color: #c0c0c0;
+}
+ul li a:hover{
+	color: #fab207;
+}
+.main{
+	padding: 10px 30px 10px 30px; 
+	background-color: yellow; 
+	border: 2px;
+}
+.main1{
+	color: #fab207;
+    font-size: 15px;
+    text-align: justify;
+}
+.main2:hover{
+		background-color: black;
+		
+		
+	}
+.main3:hover{
+	color:white;
+     
+}
+.main4{
+	color: black;
+}	

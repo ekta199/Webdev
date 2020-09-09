@@ -1,0 +1,40 @@
+ul li{
+	text-align: center;
+	list-style-type: none;
+	letter-spacing: 5px;
+}
+ul li a{
+color:	#c0c0c0;
+}
+ul li a:hover{
+	color: #fab207;
+	text-decoration: none;
+
+}
+.ulli{
+	float: left; margin-left: 20px; 
+    background-color: #fab207;
+	border: 1px solid;
+}
+.a{
+	padding: 40px;
+	letter-spacing: 1px;
+	color: black;
+}
+.ah:hover{
+	color: white;
+	text-decoration: none;
+
+}
+.ahh:hover{
+	background-color: black;
+
+}
+.li1{
+	float: left;
+	background-color: #fab207;
+    border: 1px solid;
+}
+.img{
+	
+}
